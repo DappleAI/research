@@ -74,7 +74,7 @@ The research is applied in DappleAI's guided-workflow platform. Users pick a rol
 
 - [Ebony Belhumeur](https://www.linkedin.com/in/ebelhumeur), Operations Lead & Co-Founder. Independent Researcher
 - [Kenny Flegal](https://www.linkedin.com/in/kFlegal]), Founding Engineer. Relational Database Expert | Rust, SQL
-- [Brian Belhumeur](https://www.linkedin.com/in/[handle]), Co-Founder. Technical Advisor & Front-End Architect
+- [Brian Belhumeur](https://www.linkedin.com/in/[handle]), Technical Advisor & Front-End Architect
 - [Elijah Wilson](https://www.linkedin.com/in/elijah-wilson-401140380/), Community Manager
 
 Contact: [info@dappleai.com](mailto:info@dappleai.com) · [dappleai.com](https://dappleai.com) · [LinkedIn](https://www.linkedin.com/company/dappleai/)
