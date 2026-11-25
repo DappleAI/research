@@ -2,9 +2,9 @@
 
 Research by [DappleAI](https://dappleai.com) on why powerful AI models still fail everyday users, and the interface infrastructure that fixes it.
 
-Hundreds of millions of people have tried AI, but few use it well. Our research traces that gap to structure, not to user error: an open prompt box puts the work of framing, context, model choice and iteration on the person least equipped to do it. DappleAI's answer is an adaptive orchestration layer between people and models. It frames the task, injects the right context at the right moment, and routes the work to whichever model fits, so users get reliable results without becoming prompt engineers.
+Hundreds of millions of people have tried AI, but few use it well. Our research traces that gap to structure, not to user error (e.g. an open prompt box puts the work of framing, context, model choice and iteration on the person least equipped to do it). Dapple's answer is an adaptive orchestration layer between people and models. It frames the task, injects the right context at the right moment, and routes the work to whichever model fits, so users get reliable results without becoming prompt engineers.
 
-This repository indexes the research behind that design: user and market analysis, the architecture we propose, our patent-pending context methods, and the open-source code that implements them.
+This repository indexes the research behind that design; user and market analysis, the architecture we propose, our patent-pending context methods, and the open-source code that implements them.
 
 ## Research areas
 
