@@ -1,5 +1,4 @@
 # DappleAi Research
-# DappleAI Research
 
 Research by [DappleAI](https://dappleai.com) on why powerful AI models still fail everyday users, and the interface infrastructure that fixes it.
 
